@@ -410,6 +410,6 @@ Section -FinishSection
 theEnd:
 SectionEnd
 
-BrandingText "The best things in life are free. Notepad++ is free so Notepad++ is the best"
+BrandingText "Software is like sex: It's better when it's free"
 
 ; eof
